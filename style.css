@@ -1,0 +1,17 @@
+.background{
+    background-image: url('https://data.photofunky.net/output/image/e/f/2/b/ef2b5f/photofunky.gif');
+    background-size: cover;
+    width: 100%;
+    height: 97vh;
+    position: relative;
+    background-position: center;
+ 
+}
+.spider{
+    position: absolute;
+    bottom: 0;
+}
+
+img{
+    width: 150;
+}
